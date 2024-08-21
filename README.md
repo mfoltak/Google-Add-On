@@ -12,12 +12,12 @@ Automatically sets up the following columns:
 - **Notes**
 
 ### Automatic Formatting
-- **Date** column formatted as `MM/DD/YYYY`.
-- **Amount** column formatted as currency.
-- Column widths adjusted for better readability.
+- **Date** column formatted as `MM/DD/YYYY`
+- **Amount** column formatted as currency
+- Column widths adjusted for better readability
 
 ### Total Expenses Calculation
-A **"Total Expenses"** field that sums up all amounts in the tracker.
+A **"Total Expenses"** field that sums up all amounts in the tracker
 
 ### Enhanced Readability
 - Bold headers with colored backgrounds
